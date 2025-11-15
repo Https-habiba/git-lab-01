@@ -3,3 +3,5 @@ New File
 This line will be staged
 
 This line will not be staged
+delete (to remove spaces)
+BACKSPACE (until the cursor goes to column 1)
